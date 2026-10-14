@@ -27,11 +27,11 @@ I design and automate AWS infrastructure for banking environments, and I use AI 
 
 `LangGraph` · `Bedrock` · `RAG` · `CloudFormation` · `Django` · `Flask` · `MySQL`
 
-## What I'm building
+<!-- ## What I'm building
 
 - 🔭 **[neuer-radar-ai](https://github.com/TU_USUARIO/neuer-radar-ai)**: an AI agent that curates news and matches articles to my interests.
-- 🧪 Exploring multi-agent teams with local models (Ollama) and Claude via API.
+- 🧪 Exploring multi-agent teams with local models (Ollama) and Claude via API. -->
 
 ## Contact
 
-📫 LinkedIn: [TU_NOMBRE](TU_URL_DE_LINKEDIN) · ✉️ TU_CORREO
+📫 LinkedIn: [Santiago Aldana](https://www.linkedin.com/in/santiagoaldana) · ✉️ TU_CORREO
