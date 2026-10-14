@@ -1,10 +1,5 @@
 <div align="center">
 
-![banner](assets/banner.svg)
-
-
-![banner](assets/banner_terminal_v2.svg)
-
 ![banner](assets/banner-cyber.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=2F81F7&center=true&vCenter=true&width=800&lines=Santiago+Aldana+-+Cloud+%26+DevOps+Engineer;AWS+%C2%B7+Infrastructure+as+Code+%C2%B7+CI%2FCD;AI+agents+for+infrastructure+automation)](https://github.com/TU_USUARIO)
